@@ -1,4 +1,4 @@
-Este projeto usa o framework laravel
+Projeto direcionada para uma biblioteca escola. Este projeto usa o framework laravel
 
 Documentação do Laravel: https://laravel.com/docs/10.x
 
